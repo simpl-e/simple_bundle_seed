@@ -10,4 +10,5 @@ También:
 
 ### WEBPACK ?
 
-El Aspecto negativo de Webpack es que require declarar las librerías importadas en el código o en archivos de configuración ( ej. {'$': jQuery} )
+El Aspecto negativo de Webpack es que require declarar las librerías importadas en el código o en archivos de configuración 
+( ej. {'$': jQuery} )
